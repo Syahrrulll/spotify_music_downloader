@@ -1,0 +1,5 @@
+==== PANDUAN UNTUK MENJALANKAN APLIKASI ====
+
+1. Untuk Berjaga - jaga, ketika pertama kali mendownload app ini. harap untuk menjalankan file "install_bahan.bat" terlebih dahulu agar meminimalisirkan error.
+
+2. ketika sudah mendownload semua bahannya. silahkan langsung jalankan saja aplikasinya yang ada di folder dist
