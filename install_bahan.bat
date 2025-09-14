@@ -72,10 +72,12 @@ if %ERRORLEVEL% NEQ 0 (
 if EXIST spotify_downloader.py (
     echo Semua komponen berhasil diinstal. Menjalankan aplikasi Spotify Downloader...
     python spotify_downloader.py
+    exit
 ) else (
-    echo File spotify_downloader.py tidak ditemukan. Pastikan file berada di folder yang sama.
+    echo File spotify_downloader.py tidak ditemukan. Pastikan file berada di folder yang sama.File spotify_downloader.py tidak ditemukan. Pastikan file berada di folder yang sama.
     pause
-    exit /b 1
+    exit /b 1   exit /b 1
 )
 
-pause
+pausepause
+
